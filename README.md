@@ -1,1 +1,3 @@
 # HomeworkTW
+Write a program in the algorithmic Python language according to the task received from the teacher according to the table. 1. Add appropriate constructors, destructors, accessors and display functions. In the main method, demonstrate how the classes work.
+Create the room of your dreams! Add classes to designate objects - for example, Bed (or Sofa), Table, Carpet, etc. Each object in the room must have an array of coordinates (it is not necessary to check their validity). Create a Room class, in which add the Rearengement method - which will change the coordinates of objects. Implement methods of adding, removing a new thing to the room.
